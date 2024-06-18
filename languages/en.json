@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Content boxes",
+		"description": "Add content boxes to your site. This will display your latest 'x' number of contents in small boxes at the end of the site."
+	}
+}

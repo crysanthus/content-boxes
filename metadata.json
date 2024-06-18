@@ -1,0 +1,10 @@
+{
+	"author": "Crysanthus",
+	"email": "crysanthus@gmail.com",
+	"website": "https://crysanthus.blogspot.com",
+	"version": "1.0",
+	"releaseDate": "2024-06-18",
+	"license": "MIT",
+	"compatible": "3.15.0",
+	"notes": "Content boxes bligin for Bludit 3.15.0"
+}
