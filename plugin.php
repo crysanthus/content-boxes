@@ -76,7 +76,7 @@ class pluginContentBoxes extends Plugin
 			$page = buildPage($key);
 			$contentToDisplay = substr(strip_tags($page->content()), 0, $this->getValue('noschars'));
 
-			$html .= '<div class="col-md-3 m-1 py-1 border rounded shadow">';
+			$html .= '<div class="col-md-3 m-1 mb-2 py-1 border rounded shadow">';
 			$html .= '<div class="panel panel-default">';
 			$html .= '<div class="panel-heading">';
 			$html .= '<div class="h4 panel-title">';
